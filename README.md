@@ -18,6 +18,10 @@ Start with [`code-of-ix.md`](code-of-ix.md) for an introduction and navigation g
 
 ## Contents
 
+### EthIX - Ethical principles
+
+This layer is work in progress. `ethix.md` will document responsible AI design values (transparency, user control, avoiding manipulation).
+
 ### BasIX — Foundational Standards
 
 The most developed section, covering 92+ guidelines across 11 areas:
@@ -34,15 +38,15 @@ The most developed section, covering 92+ guidelines across 11 areas:
 10. Navigation and disclosure
 11. Tables and data
 
-### Patterns
+### TactIX - Practical techniques
 
-The `patterns/` directory contains component-specific guidance with annotated layout diagrams and usage examples. Currently includes:
+This layer is work in progress. `tactix.md` will cover implementation techniques such as progressive disclosure, sensible defaults, and user validation.
+
+#### Patterns
+
+The `patterns/` directory contains supporting visual examples of key patterns and layouts. Currently includes:
 
 - [`patterns/tables.md`](patterns/tables.md) — When and how to use tables
-
-### EthIX and TactIX
-
-These layers are in progress. `ethix.md` will document responsible AI design values (transparency, user control, avoiding manipulation). `tactix.md` will cover implementation techniques such as progressive disclosure, sensible defaults, and user validation.
 
 ## Usage
 
