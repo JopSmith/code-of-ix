@@ -1,63 +1,60 @@
 # Code of IX
 
-A design and UX standards framework for building consistent, accessible, and ethical intelligent experiences (IX).
+**Date:** 10/09/2026  
+**Version:** 1.0  
+**Author:** Jonathan Smith
 
-## Overview
+## Introduction
 
-Code of IX is a shared reference for designers, developers, and product teams. It provides principles, standards, and practical techniques for creating AI-powered user interfaces that are high-quality, inclusive, and responsible.
+A shared set of principles, standards and practical guidance for creating consistent, inclusive and high-quality intelligent experiences (IX).
 
-The framework is organized into three layers:
+It's organised into three complementary layers:
 
-| Layer | File | Purpose |
-|---|---|---|
-| **EthIX** | `ethix.md` | The *why* — ethical principles and values |
-| **BasIX** | `basix.md` | The *what* — foundational standards and rules |
-| **TactIX** | `tactix.md` | The *how* — practical techniques and patterns |
+- **EthIX** - The principles that define what responsible IX should stand for.
+- **BasIX** - The foundational standards every IX experience should meet.
+- **TactIX** - The practical techniques used to apply those principles and standards effectively.
 
-Start with [`code-of-ix.md`](code-of-ix.md) for an introduction and navigation guide.
+## EthIX
 
-## Contents
+The values and principles that guide responsible, inclusive and trustworthy experiences.
 
-### EthIX - Ethical principles
+**Examples:**
 
-This layer is work in progress. `ethix.md` will document responsible AI design values (transparency, user control, avoiding manipulation).
+- Design experiences that are accessible and inclusive by default.
+- Be transparent about when and how AI is being used.
+- Keep people informed and in control of consequential decisions.
+- Protect personal and sensitive information throughout the experience.
+- Avoid patterns that manipulate, mislead or place undue pressure on users.
+- Consider how different users may be affected by bias or unintended outcomes.
 
-### BasIX — Foundational Standards
+**Full guidelines:** [`ethix.md`](ethix.md)
 
-The most developed section, covering 92+ guidelines across 11 areas:
+## BasIX
 
-1. Accessibility
-2. Actions and buttons
-3. Content and language
-4. Dialogs and overlays
-5. Feedback and system status
-6. Forms and validation
-7. Icons and iconography
-8. Interaction and motion
-9. Layout and responsive design
-10. Navigation and disclosure
-11. Tables and data
+The essential foundations, standards and rules that every experience should follow.
 
-### TactIX - Practical techniques
+**Examples:**
 
-This layer is work in progress. `tactix.md` will cover implementation techniques such as progressive disclosure, sensible defaults, and user validation.
+- Use approved design-system components and patterns.
+- Maintain consistent typography, spacing and interaction behaviour.
+- Meet the agreed accessibility and colour-contrast requirements.
+- Use clear, concise and consistent language.
+- Provide appropriate feedback for actions, errors and changes in status.
+- Design layouts and interactions to work across supported screen sizes and devices.
 
-#### Patterns
+**Full guidelines:** [`basix.md`](basix.md)
 
-The `patterns/` directory contains supporting visual examples of key patterns and layouts. Currently includes:
+## TactIX
 
-- [`patterns/tables.md`](patterns/tables.md) — When and how to use tables
+Practical techniques and recommended approaches for applying the code effectively, including visual examples of key patterns and layouts.
 
-## Usage
+**Examples:**
 
-All content is written in Markdown and can be read directly in any editor or rendered via a documentation site. There is no build step required.
+- Validate unfamiliar patterns with users before adopting them more widely.
+- Use progressive disclosure to make complex experiences easier to understand.
+- Provide sensible defaults to reduce unnecessary effort and decision-making.
+- Break complex processes into clear, manageable steps.
+- Use examples and contextual guidance to help users complete unfamiliar tasks.
+- Test designs with realistic content, data and edge cases before release.
 
-Browse the files directly, or use your editor's search to find guidance on a specific topic (e.g., search for `validation`, `empty state`, or `pagination`).
-
-## Contributing
-
-When adding or updating guidelines:
-
-- Place foundational rules in `basix.md` under the relevant section
-- Add component-specific patterns with visuals to `patterns/`
-- Keep each guideline specific and actionable
+**Full guidelines:** [`tactix.md`](tactix.md)
