@@ -18,24 +18,24 @@ Use a table when users need to scan, compare or act on structured data.
 
 ### Standard table
 
-![Standard table layout](./examples/table-standard.png)
+![Standard table layout](./examples/tables/table-standard.png)
 
 Use for...
 
 ### Table with row actions
 
-![Table with row actions](./examples/table-row-actions.png)
+![Table with row actions](./examples/tables/table-row-actions.png)
 
 Use when...
 
 ### Responsive table
 
-![Responsive table layout](./examples/table-responsive.png)
+![Responsive table layout](./examples/tables/table-responsive.png)
 
 Use when...
 
 ## Avoid
 
-![Poor table layout](./examples/table-avoid.png)
+![Poor table layout](./examples/tables/table-avoid.png)
 
 Avoid...
