@@ -6,7 +6,11 @@
 
 ## Introduction
 
-This collection is a lightweight reference of concise, reusable UX/UI guidance. Use it when designing, reviewing or implementing user interfaces to support better decisions, avoid common mistakes and maintain a high standard of usability, accessibility and consistency.
+BasIX defines the foundational standards that every intelligent experience should meet.
+
+These guidelines turn broader principles into clear, practical rules for creating consistent, accessible and usable experiences across products, platforms and contexts.
+
+They provide a shared baseline for quality and inform the more detailed techniques in TactIX.
 
 ### Contents
 

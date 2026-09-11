@@ -27,7 +27,7 @@ The values and principles that guide responsible, inclusive and trustworthy expe
 - Avoid patterns that manipulate, mislead or place undue pressure on users.
 - Consider how different users may be affected by bias or unintended outcomes.
 
-**Full guidelines:** [`ethix.md`](ethix.md)
+**Full guidelines:** [`ethix/ethix.md`](ethix/ethix.md)
 
 ## BasIX
 
@@ -42,7 +42,7 @@ The essential foundations, standards and rules that every experience should foll
 - Provide appropriate feedback for actions, errors and changes in status.
 - Design layouts and interactions to work across supported screen sizes and devices.
 
-**Full guidelines:** [`basix.md`](basix.md)
+**Full guidelines:** [`basix/basix.md`](basix/basix.md)
 
 ## TactIX
 
@@ -57,4 +57,4 @@ Practical techniques and recommended approaches for applying the code effectivel
 - Use examples and contextual guidance to help users complete unfamiliar tasks.
 - Test designs with realistic content, data and edge cases before release.
 
-**Full guidelines:** [`tactix.md`](tactix.md)
+**Full guidelines:** [`tactix/tactix.md`](tactix/tactix.md)
