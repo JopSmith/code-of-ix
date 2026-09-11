@@ -26,7 +26,7 @@ Use a standard table for straightforward datasets that primarily need to be read
 
 Keep the structure simple, use clear column headings and avoid adding controls that are not needed. Prioritise the most important information and keep comparable data aligned consistently.
 
-![Standard table layout](../examples/tables/table-standard.png)
+**View standard table layout:** [`table-standard.png`](../examples/tables/table-standard.png)
 
 ### Tables with varying widths
 
