@@ -693,3 +693,27 @@ Keep column headers visible while users scroll through long tables. Persistent h
 ### Avoid horizontal table scrolling
 
 Design tables and layouts to fit the available viewport without relying on horizontal scrolling. Prioritise responsive layouts that reflow content, stack columns or reveal secondary information progressively so users can access everything without scrolling sideways.
+
+### Keep comparable data in consistent columns
+
+Place the same type of information in the same column across every row. Consistent column structure makes tables easier to scan, compare and understand, and prevents users from having to reinterpret the meaning or position of data between records.
+
+### Prioritise important columns
+
+Place the most important identifying and decision-making information towards the left of the table, where users typically begin scanning. Move supporting or lower-priority information further right so essential data remains easier to find and compare.
+
+### Limit visible table columns
+
+Show only the columns users need for their primary task and avoid exposing excessive secondary information by default. Prioritise essential data and progressively reveal additional details where needed to keep tables manageable, readable and easier to scan.
+
+### Keep table columns consistent
+
+Use the same column names, terminology and relative order for equivalent data across different tables and pages. Consistency reduces relearning, improves scanability and helps users build reliable expectations when moving between related views.
+
+### Size tables to data complexity
+
+Use a maximum width of 1024px for smaller, less data-heavy tables. Use the full available page width for more complex tables with additional columns, longer values or greater need for side-by-side comparison.
+
+### Adapt tables for mobile
+
+On mobile, simplify complex tables by changing their structure where needed. Hide or progressively disclose secondary columns, or use an alternative layout such as stacked cards when a conventional table would be difficult to scan or use.
