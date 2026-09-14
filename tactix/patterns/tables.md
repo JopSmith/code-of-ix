@@ -36,7 +36,7 @@ Use a fixed or constrained width for simpler tables with a small number of colum
 
 Use a wider or full-width table when there are more columns, longer values or information that benefits from side-by-side comparison. Allow the table to use the available page width before introducing horizontal scrolling.
 
-[View fixed width table](../examples/tables/table-fixed-width.png)
+[View fixed width table](../examples/tables/table-fixed-width.png)<br>
 [View full width table](../examples/tables/table-full-width.png)
 
 ### Table with row actions
@@ -47,7 +47,7 @@ Keep actions in a consistent position across rows. Show common actions directly 
 
 Avoid using row actions for operations that apply to multiple selected rows.
 
-[View table with row actions](../examples/tables/table-row-actions.png)
+[View table with row actions](../examples/tables/table-row-actions.png)<br>
 [View table with row actions overflow](../examples/tables/table-row-actions-overflow.png)
 
 ### Table with filtering
@@ -64,7 +64,7 @@ Avoid adding filtering to small datasets where users can find information easily
 
 Tables should show an appropriate empty state when no data is available on initial load or when searching or filtering returns no results.
 
-[View table with initial load empty state](../examples/tables/table-empty-state-initial-load.png)
+[View table with initial load empty state](../examples/tables/table-empty-state-initial-load.png)<br>
 [View table with no results empty state](../examples/tables/table-empty-state-no-results.png)
 
 ### Tables with multi-select
