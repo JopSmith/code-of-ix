@@ -14,7 +14,7 @@ They support consistent implementation while allowing solutions to adapt to diff
 
 ### Contents
 
-01. Tables
+01. [Tables](../patterns/tables.md)
 02. 
 03. 
 04. 
