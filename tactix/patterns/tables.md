@@ -28,6 +28,14 @@ Keep the structure simple, use clear column headings and avoid adding controls t
 
 [View standard table](../examples/tables/table-standard.png)
 
+### Data table
+
+Use a data table for larger or more complex datasets that need richer interaction, such as sorting, filtering, pagination, selection or row actions.
+
+Use a standard table when users only need to scan and compare a smaller, simpler set of information.
+
+[View data table](../examples/tables/table-data-table.png)
+
 ### Tables with varying widths
 
 Choose a table width based on the amount and complexity of the data rather than applying the same width to every table.
