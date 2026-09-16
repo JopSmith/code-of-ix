@@ -14,17 +14,17 @@ They provide a shared baseline for quality and inform the more detailed techniqu
 
 ### Contents
 
-01. Accessibility
-02. Actions and buttons
-03. Content and language
-04. Dialogs and overlays
-05. Feedback and system status
-06. Forms and validation
-07. Icons and iconography
-08. Interaction and motion
-09. Layout and responsive design
-10. Navigation and disclosure
-11. Tables and data
+01. [Accessibility](#01-accessibility)
+02. [Actions and buttons](#02-actions-and-buttons)
+03. [Content and language](#03-content-and-language)
+04. [Dialogs and overlays](#04-dialogs-and-overlays)
+05. [Feedback and system status](#05-feedback-and-system-status)
+06. [Forms and validation](#06-forms-and-validation)
+07. [Icons and iconography](#07-icons-and-iconography)
+08. [Interaction and motion](#08-interaction-and-motion)
+09. [Layout and responsive design](#09-layout-and-responsive-design)
+10. [Navigation and disclosure](#10-navigation-and-disclosure)
+11. [Tables and data](#11-tables-and-data)
 
 ---
 
@@ -284,15 +284,15 @@ Don’t add a call-to-action to every empty state. Only use one when there is a 
 
 ### Notify of background activity
 
-Use a brief top-right aligned notification to confirm the success or failure of background activities, such as the import of users. The notification should appear and dismiss automatically without interrupting the user’s workflow, with an optional dismiss action when needed.
+Use a brief top-right aligned notification (Toast component) to confirm the success or failure of background activities, such as the import of users. The notification should appear and dismiss automatically without interrupting the user’s workflow, with an optional dismiss action when needed.
 
 ### Notify of immediate feedback
 
-Use a brief bottom-centre aligned notification to confirm success or failure immediately after a user action, such as updating a password. The notification should appear and dismiss automatically without disrupting the workflow, with an optional dismiss action when needed.
+Use a brief bottom-centre aligned notification (Toast component) to confirm success or failure immediately after a user action, such as updating a password. The notification should appear and dismiss automatically without disrupting the workflow, with an optional dismiss action when needed.
 
 ### Notify of system messages
 
-Place persistent system messages, such as system downtime advisory, at the top of the page, dialog, drawer or form they affect. Use them for important states that may influence usage or availability, with an optional dismiss action where appropriate.
+Place persistent system messages, such as system downtime advisory, at the top of the page, dialog, drawer or form they affect (Alert component). Use them for important states that may influence usage or availability, with an optional dismiss action where appropriate.
 
 ### Match loading states to content
 
